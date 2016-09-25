@@ -2,11 +2,11 @@
 ---------------------------- About -------------------------
 
 
-Name : PokéBot
-Version : 0.1.4
-Last update : 14/09/2016
-Author : Undershell
-Repository : https://github.com/undershell/pokebot
+- Name : PokéBot
+- Version : 0.1.4
+- Last update : 14/09/2016
+- Author : Undershell
+- Repository : https://github.com/undershell/pokebot
 
 
 ---------------------------- Required -----------------------
