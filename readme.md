@@ -23,4 +23,4 @@
 
 
 - When running the walking/refresher option, you need to check that your language is compatible (based on latin), in order to produce the alphabetic movement keys.
-- if you are fishing, try to enter water and be surrended by it, because if it disconnecte your character may not face water, therefore the "f" may be useless for the bot. 
+- if you are fishing, try to enter water and be surrended by it, because if it disconnectes, your character may not face water, therefore the "f" may be useless for the bot. 
